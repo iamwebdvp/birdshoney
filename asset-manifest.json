@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/birdshoney/static/css/main.5a4e4821.css",
-    "main.js": "/birdshoney/static/js/main.a169f690.js",
+    "main.css": "/birdshoney/static/css/main.bb18c5bf.css",
+    "main.js": "/birdshoney/static/js/main.bcb6308e.js",
     "static/js/787.5ebad286.chunk.js": "/birdshoney/static/js/787.5ebad286.chunk.js",
     "index.html": "/birdshoney/index.html",
-    "main.5a4e4821.css.map": "/birdshoney/static/css/main.5a4e4821.css.map",
-    "main.a169f690.js.map": "/birdshoney/static/js/main.a169f690.js.map",
+    "main.bb18c5bf.css.map": "/birdshoney/static/css/main.bb18c5bf.css.map",
+    "main.bcb6308e.js.map": "/birdshoney/static/js/main.bcb6308e.js.map",
     "787.5ebad286.chunk.js.map": "/birdshoney/static/js/787.5ebad286.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a4e4821.css",
-    "static/js/main.a169f690.js"
+    "static/css/main.bb18c5bf.css",
+    "static/js/main.bcb6308e.js"
   ]
 }
